@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Showcases/Showcase_LavalLampShaderGraph.unity
+    path: Assets/Scenes/Showcases/Laval Lamp [ShaderGraph].unity
     guid: e8ee5c0edfd6e0d4b9dad48a7bc30030
   m_configObjects: {}

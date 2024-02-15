@@ -44,11 +44,9 @@
      <Folder Include="Assets" />
      <Folder Include="Assets\Scenes\Showcases" />
      <Folder Include="Assets\2D\LavaLamp" />
-     <None Include="Assets\2D\LavaLamp\Shader\MyDefaultShader\ScrollingAdditive.shader" />
-     <None Include="Assets\2D\LavaLamp\Shader\MyDefaultShader\MergeTextures.shader" />
+     <Folder Include="Assets\Scenes\Scripts" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\2D\LavaLamp\Shader" />
-     <Folder Include="Assets\2D\LavaLamp\Shader\MyDefaultShader" />
      <Folder Include="Assets\2D" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
